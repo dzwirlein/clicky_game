@@ -4,7 +4,7 @@ const styles = {
     footer: {
     bottom: 0,
     width: "100%",
-    height: "60px",
+    height: "100px",
     background: "black",
     },
 
